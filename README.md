@@ -1,3 +1,3 @@
 # node-configs-up-to-date
-maintein device node configurations up to date
-test of GIT 
+maintain device node configurations up to date
+testing GIT with Eclipse 
